@@ -3,8 +3,8 @@
 <img src="./github/demo.gif">
 
 <div>
-    <img src="./github/print.PNG" height="250">
-    <img src="./github/print2.PNG" height="250">
+    <img src="./github/print.PNG">
+    <img src="./github/print2.PNG">
 </div>
 
 # Sobre
